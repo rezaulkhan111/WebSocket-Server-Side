@@ -1,0 +1,4 @@
+D:\H_Extra\Open Source Code\SimpleWS-Server\SimpleWS-Server\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.Development.json
+D:\H_Extra\Open Source Code\SimpleWS-Server\SimpleWS-Server\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.json
+D:\H_Extra\Open Source Code\SimpleWS-Server\SimpleWS-Server\obj\Release\net6.0\win-x86\PubTmp\Out\SimpleWS-Server.pdb
+D:\H_Extra\Open Source Code\SimpleWS-Server\SimpleWS-Server\obj\Release\net6.0\win-x86\PubTmp\Out\SimpleWS-Server.exe
